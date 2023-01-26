@@ -8,7 +8,7 @@ In Python, I utilize the *pyodbc* package for the connection:
 import pyodbc
 ```
 
-On the other hand, in R I use simply the *odbc* package:
+In R, I use the *odbc* package:
 ```
 library(odbc)
 ```
